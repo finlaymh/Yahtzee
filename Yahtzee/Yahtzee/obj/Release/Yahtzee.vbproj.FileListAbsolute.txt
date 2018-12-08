@@ -1,0 +1,11 @@
+C:\Users\Finla\Documents\Dev\Yahtzee\Yahtzee\bin\Release\Yahtzee.exe.config
+C:\Users\Finla\Documents\Dev\Yahtzee\Yahtzee\bin\Release\Yahtzee.exe
+C:\Users\Finla\Documents\Dev\Yahtzee\Yahtzee\bin\Release\Yahtzee.pdb
+C:\Users\Finla\Documents\Dev\Yahtzee\Yahtzee\bin\Release\Yahtzee.xml
+C:\Users\Finla\Documents\Dev\Yahtzee\Yahtzee\obj\Release\Yahtzee.vbprojAssemblyReference.cache
+C:\Users\Finla\Documents\Dev\Yahtzee\Yahtzee\obj\Release\Yahtzee.Resources.resources
+C:\Users\Finla\Documents\Dev\Yahtzee\Yahtzee\obj\Release\Yahtzee.vbproj.GenerateResource.cache
+C:\Users\Finla\Documents\Dev\Yahtzee\Yahtzee\obj\Release\Yahtzee.vbproj.CoreCompileInputs.cache
+C:\Users\Finla\Documents\Dev\Yahtzee\Yahtzee\obj\Release\Yahtzee.exe
+C:\Users\Finla\Documents\Dev\Yahtzee\Yahtzee\obj\Release\Yahtzee.xml
+C:\Users\Finla\Documents\Dev\Yahtzee\Yahtzee\obj\Release\Yahtzee.pdb
